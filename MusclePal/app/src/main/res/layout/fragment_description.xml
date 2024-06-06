@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".discover">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:id="@+id/exerciseNamedes"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="sans-serif-black"
+        android:text="bruh"
+        android:textAlignment="viewStart"
+        android:textColor="@color/purple_700"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/exerciseDescription"
+        android:layout_width="match_parent"
+        android:layout_height="285dp"
+        android:layout_below="@+id/exerciseNamedes"
+        android:layout_marginTop="9dp"
+        android:textColor="@color/purple_700" />
+</RelativeLayout>

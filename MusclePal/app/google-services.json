@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549729473260",
+    "project_id": "auth-84ec8",
+    "storage_bucket": "auth-84ec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549729473260:android:17ffb8f2ef03795f674bc9",
+        "android_client_info": {
+          "package_name": "com.example.musclepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549729473260-3asesjq1kpei7kd5bkas7pei9rqsb37s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjAv037DK9bQXPEjnakTFppmK-8kTK1Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549729473260-3asesjq1kpei7kd5bkas7pei9rqsb37s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
